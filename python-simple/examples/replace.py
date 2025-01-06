@@ -1,3 +1,3 @@
 str = "Python is a snake"
-new_str = str.replace("snake", "a").replace("venomous", "")
+new_str = str.replace("snake", "venomous").replace("a", "")
 print("Modified_text:", new_str)
